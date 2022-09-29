@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Springboot**
 
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
 - 📫 How to reach me **rajlaxmimeshram024@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cICQX1x8QjVEAAKTdzqeAyzbAL2EDqNL/view?usp=sharing](https://drive.google.com/file/d/1cICQX1x8QjVEAAKTdzqeAyzbAL2EDqNL/view?usp=sharing)
