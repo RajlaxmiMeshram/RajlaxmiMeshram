@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/PQCr2Fk/banner7.jpg" height="200px"/></a>
+<!--<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/PQCr2Fk/banner7.jpg" height="200px"/></a>-->
 <h1 align="center">Hi 👋, I'm Rajlaxmi Meshram</h1>
 <h3 align="center">A passionate Full Stack Java Developer from India</h3>
 <img align ="right" alt="developer" width="400" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/4711ad8d0ba0dcd367061aa7841f8107.gif">
