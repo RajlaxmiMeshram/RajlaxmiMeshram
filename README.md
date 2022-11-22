@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Java Developer from India</h3>
 <img align ="right" alt="developer" width="400" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/4711ad8d0ba0dcd367061aa7841f8107.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajlaxmimeshram&label=Profile%20views&color=0e75b6&style=flat" alt="rajlaxmimeshram" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajlaxmimeshram&label=Profile%20views&color=0e75b6&style=flat" alt="rajlaxmimeshram"/> </p>
 
 - 🌱 I’m currently learning **Springboot**
 
