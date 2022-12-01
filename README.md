@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Springboot**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+
 
 - 📫 How to reach me **rajlaxmimeshram024@gmail.com**
 
