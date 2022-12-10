@@ -1,51 +1,82 @@
-<!--<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/PQCr2Fk/banner7.jpg" height="200px"/></a>-->
-<h1 align="center">Hi 👋, I'm Rajlaxmi Meshram</h1>
-<h3 align="center">A passionate Full Stack Java Developer from India</h3>
-<img align ="right" alt="developer" width="400" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/4711ad8d0ba0dcd367061aa7841f8107.gif">
+![MasterHead(banner2.gif)](banner2.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajlaxmimeshram&label=Profile%20views&color=0e75b6&style=flat" alt="rajlaxmimeshram"/> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajlaxmimeshram&label=Profile%20views&color=0e75b6&style=flat" alt="rajlaxmimeshram"/> </p>-->
+<hr>
 
-- 🌱 I’m currently learning **Spring Boot**
+-🌱 I’m currently learning **Java Spring Boot**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+-👯 I’m looking to collaborate on **Web based Open Source Project**
 
-- 📫 How to reach me **rajlaxmimeshram024@gmail.com**
+-👨‍💻 All of my projects are available at [Here](https://github.com/RajlaxmiMeshram)
 
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1cICQX1x8QjVEAAKTdzqeAyzbAL2EDqNL/view?usp=sharing)
+-💬 Ask me about **Java Frameworks & IDEs**
 
-<h3 align="left">Connect with me:</h3>
+-📄 Know about my experiences [Here](https://drive.google.com/file/d/1cICQX1x8QjVEAAKTdzqeAyzbAL2EDqNL/view?usp=sharing)
+
+<!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@meshramrajlaxmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@meshramrajlaxmi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/rajlaxmi024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rajlaxmi024" height="30" width="40" /></a>
+
+</p>-->
+<hr>
+<h2  align="center">📫 Connect on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/rajlaxmi024/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/meshramrajlaxmi"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:rajlaxmimeshram024@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/RajlaxmiMeshram" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<hr>
 
-<br/>
-
-
-
-
-## 📊 My Github Stats
-<p>
-<a href="https://github.com/RajlaxmiMeshram/github-readme-stats"><img alt="Rajlaxmi Meshram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RajlaxmiMeshram&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
- </p>
- <br>
- <p>
- <a href="https://github.com/RajlaxmiMeshram/github-readme-stats"><img alt="Rajlaxmi Meshram's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajlaxmiMeshram&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<h2 align="center"> 🔭 Tools of Trade</h2>
+<p align="center">
+<img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white/>&nbsp;&nbsp;&nbsp;
+<img src=https://img.shields.io/badge/C-2980b9?style=for-the-badge&logo=c&logoColor=white/>&nbsp;&nbsp;&nbsp;
+<img src=https://img.shields.io/badge/Java-43b02a?style=for-the-badge&logo=java&logoColor=white/>&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PHP-FF6C37?style=for-the-badge&logo=PHP&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/HTML5-14354C?style=for-the-badge&logo=Html5&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-39457E?style=for-the-badge&logo=CSS3&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-D24939?style=for-the-badge&logo=Bootstrap&logoColor=white"/>&nbsp;&nbsp;
+ <img src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Spring-56D686?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySQL-0078d7?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>&nbsp;&nbsp;
+     
 </p>
-  <br/>
-  
-  <p>
-    <a href="https://github.com/RajlaxmiMeshram/github-readme-streak-stats">
-     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rajlaxmi Meshram's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RajlaxmiMeshram&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" />
+<hr>
+<h2 align="center"> 🔭⬇️ All My Repositories </h2>
+
+####    My Github Streaks
+
+
+ <p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rajlaxmi Meshram's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rajlaxmimeshram&theme=transparent&hide_border=false"/>
     </a>
 </p>
 
-<!--<a href="https://github.com/RajlaxmiMeshram/github-readme-activity-graph"><img alt="Rajlaxmi Meshram's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RajlaxmiMeshram&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>-->
+#### My Github Stats
+<p align="center">
+<a href="https://github.com/rajlaxmimeshram/github-readme-stats"><img alt="Rajlaxmi Meshram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajlaxmimeshram&show_icons=true&count_private=true&theme=transparent&hide_border=False" /></a>
+</p>
+
+#### Top Languages
+<p align="center">
+<a href="https://github.com/rajlaxmimeshram/github-readme-stats"><img alt="Rajlaxmi Meshram's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajlaxmimeshram&langs_count=8&count_private=true&layout=compact&theme=transparent&hide_border=false" /></a>
+</p>
 
 
-<br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajlaxmiMeshram&theme=github_dark)
+
