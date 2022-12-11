@@ -60,21 +60,20 @@
 
 ####    My Github Streaks
 
-
  <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rajlaxmi Meshram's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rajlaxmimeshram&theme=transparent&hide_border=false"/>
+    <a href="https://github.com/RajlaxmiMeshram/github-readme-streak-stats">
+     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rajlaxmi Meshram's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RajlaxmiMeshram&theme=transparent&hide_border=false"/>
     </a>
 </p>
 
 #### My Github Stats
 <p align="center">
-<a href="https://github.com/rajlaxmimeshram/github-readme-stats"><img alt="Rajlaxmi Meshram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajlaxmimeshram&show_icons=true&count_private=true&theme=transparent&hide_border=False" /></a>
+<a href="https://github.com/RajlaxmiMeshram/github-readme-stats"><img alt="Rajlaxmi Meshram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RajlaxmiMeshram&show_icons=true&count_private=true&theme=transparent&hide_border=False" /></a>
 </p>
 
 #### Top Languages
 <p align="center">
-<a href="https://github.com/rajlaxmimeshram/github-readme-stats"><img alt="Rajlaxmi Meshram's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajlaxmimeshram&langs_count=8&count_private=true&layout=compact&theme=transparent&hide_border=false" /></a>
+<a href="https://github.com/RajlaxmiMeshram/github-readme-stats"><img alt="Rajlaxmi Meshram's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajlaxmiMeshram&langs_count=8&count_private=true&layout=compact&theme=transparent&hide_border=false" /></a>
 </p>
 
 
