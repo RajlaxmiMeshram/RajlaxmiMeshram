@@ -41,13 +41,18 @@
   <img src="https://img.shields.io/badge/CSS3-39457E?style=for-the-badge&logo=CSS3&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-D24939?style=for-the-badge&logo=Bootstrap&logoColor=white"/>&nbsp;&nbsp;
  <img src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>&nbsp;&nbsp;
+ <!--<img src="https://img.shields.io/badge/Angular-ff0000?style=for-the-badge&logo=angular&logoColor=white"/>&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Mongodb-658354?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/reactJs-1AA7AC?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;&nbsp;-->
 <img src="https://img.shields.io/badge/Spring-56D686?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/.net-797ef6?style=for-the-badge&logo=dotnet&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C sharp-663399?style=for-the-badge&logo=Csharp&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MySQL-0078d7?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>&nbsp;&nbsp;
