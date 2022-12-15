@@ -63,6 +63,11 @@
 <hr>
 <h2 align="center"> 🔭⬇️ All My Repositories </h2>
 
+#### My Github Stats
+<p align="center">
+<a href="https://github.com/RajlaxmiMeshram/github-readme-stats"><img alt="Rajlaxmi Meshram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RajlaxmiMeshram&show_icons=true&count_private=true&theme=transparent&hide_border=False" /></a>
+</p>
+
 ####    My Github Streaks
 
  <p align="center">
@@ -71,10 +76,6 @@
     </a>
 </p>
 
-#### My Github Stats
-<p align="center">
-<a href="https://github.com/RajlaxmiMeshram/github-readme-stats"><img alt="Rajlaxmi Meshram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RajlaxmiMeshram&show_icons=true&count_private=true&theme=transparent&hide_border=False" /></a>
-</p>
 
 #### Top Languages
 <p align="center">
