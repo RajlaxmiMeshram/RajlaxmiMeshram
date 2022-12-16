@@ -79,7 +79,7 @@
 
 #### Top Languages
 <p align="center">
-<a href="https://github.com/RajlaxmiMeshram/github-readme-stats"><img alt="Rajlaxmi Meshram's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajlaxmiMeshram&langs_count=8&count_private=true&layout=compact&theme=transparent&hide_border=false" /></a>
+<a href="https://github.com/rajlaxmimeshram/github-readme-stats"><img alt="Rajlaxmi Meshram's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajlaxmimeshram&langs_count=8&count_private=true&layout=compact&theme=transparent&border_color=DDDAD5&title_color=D24939"/></a>
 </p>
 
 
