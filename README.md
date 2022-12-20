@@ -71,21 +71,21 @@
 
 #### My Github Stats
 <p align="center">
-<a href="https://github.com/RajlaxmiMeshram/github-readme-stats"><img alt="Rajlaxmi Meshram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RajlaxmiMeshram&show_icons=true&count_private=true&theme=transparent&border_color=DDDAD5&text_color=e6b400&icon_color=D24939&title_color=D24939&ring_color=D24939&include_all_commits=true"/></a>
+<a href="https://github.com/RajlaxmiMeshram/github-readme-stats"><img alt="Rajlaxmi Meshram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RajlaxmiMeshram&show_icons=true&count_private=true&theme=transparent&border_color=DDDAD5&text_color=e6b400&icon_color=D24939&title_color=D24939&ring_color=D24939&include_all_commits=true&border_radius=20"/></a>
 </p>
 
 ####    My Github Streaks
 
  <p align="center">
     <a href="https://github.com/RajlaxmiMeshram/github-readme-streak-stats">
-     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rajlaxmi Meshram's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RajlaxmiMeshram&show_icons=true&count_private=true&theme=gruvbox&background=D24939&border=DDDAD5&stroke=DBDDD3&ring=FEFEFE&dates=F0F4F0&currStreakNum=DDBE28&border=DDDAD5&currStreakLabel=DDBE28"/>
+     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rajlaxmi Meshram's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RajlaxmiMeshram&show_icons=true&count_private=true&theme=gruvbox&background=D24939&border=DDDAD5&stroke=DBDDD3&ring=FEFEFE&dates=F0F4F0&currStreakNum=DDBE28&border=DDDAD5&currStreakLabel=DDBE28&border_radius=20"/>
     </a>
 </p>
 
 
 #### Top Languages
 <p align="center">
-<a href="https://github.com/RajlaxmiMeshram/github-readme-stats"><img alt="Rajlaxmi Meshram's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajlaxmiMeshram&langs_count=8&count_private=true&layout=compact&theme=transparent&border_color=DDDAD5&title_color=D24939&text_color=e6b400"/></a>
+<a href="https://github.com/RajlaxmiMeshram/github-readme-stats"><img alt="Rajlaxmi Meshram's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajlaxmiMeshram&langs_count=8&count_private=true&layout=compact&theme=transparent&border_color=DDDAD5&title_color=D24939&text_color=e6b400&border_radius=20"/></a>
 </p>
 
 
