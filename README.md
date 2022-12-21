@@ -6,6 +6,7 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajlaxmimeshram&label=Profile%20views&color=0e75b6&style=flat" alt="rajlaxmimeshram"/> </p>-->
 <hr>
+<!--<div align ="center">-->
 
 -🌱 I’m currently learning **Java Spring Boot**
 
@@ -16,6 +17,8 @@
 -💬 Ask me about **Java Frameworks & IDEs**
 
 -📄 Know about my experiences [Here](https://drive.google.com/file/d/1cICQX1x8QjVEAAKTdzqeAyzbAL2EDqNL/view?usp=sharing)
+  
+<!--  </div>-->
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
