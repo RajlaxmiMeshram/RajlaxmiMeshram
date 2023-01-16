@@ -80,12 +80,12 @@
 
 <hr>
 <h2 align="center"> 🔭⬇️ All My Repositories </h2>
-<!--
+
 #### My Github Stats
 <p align="center">
 <a href="https://github.com/RajlaxmiMeshram/github-readme-stats"><img alt="Rajlaxmi Meshram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RajlaxmiMeshram&show_icons=true&count_private=true&theme=transparent&border_color=DDDAD5&text_color=e6b400&icon_color=D24939&title_color=D24939&ring_color=D24939&include_all_commits=true&border_radius=20"/></a>
 </p>
--->
+
 
 ####    My Github Streaks
 
@@ -95,15 +95,15 @@
     </a>
 </p>
 
-<!--
+
 #### Top Languages
 <p align="center">
 <a href="https://github.com/RajlaxmiMeshram/github-readme-stats"><img alt="Rajlaxmi Meshram's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajlaxmiMeshram&langs_count=8&count_private=true&layout=compact&theme=transparent&border_color=DDDAD5&title_color=D24939&text_color=e6b400&border_radius=20"/></a>
-</p>-->
+</p>
 
 
-  <!--  </div>-->
-<!--<h3 align="left">Connect with me:</h3>
+  <!--  </div>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@meshramrajlaxmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@meshramrajlaxmi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/rajlaxmi024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rajlaxmi024" height="30" width="40" /></a>
