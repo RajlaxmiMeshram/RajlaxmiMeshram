@@ -4,7 +4,8 @@
 
    </div>            
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajlaxmimeshram&label=Profile%20views&color=0e75b6&style=flat" alt="rajlaxmimeshram"/> </p>-->
-<hr>
+
+<img  src="https://github.com/RajlaxmiMeshram/Rajlaxmi/blob/main/image/borderseperator.gif">
 <!--<div align ="center">-->
 
 -🌱 I’m currently learning **Java Spring Boot**
@@ -28,8 +29,8 @@
 <a href="https://twitter.com/@meshramrajlaxmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@meshramrajlaxmi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/rajlaxmi024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rajlaxmi024" height="30" width="40" /></a>
 </p>-->
+<img  src="https://github.com/RajlaxmiMeshram/Rajlaxmi/blob/main/image/borderseperator.gif">
 
-<hr>
 <h2  align="center">📫 Connect on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/rajlaxmi024/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -38,8 +39,8 @@
   <a href="https://github.com/RajlaxmiMeshram" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 </p>
 
+<img  src="https://github.com/RajlaxmiMeshram/Rajlaxmi/blob/main/image/borderseperator.gif">
 
-<hr>
 <h2 align="center"> 🔭 Tools of Trade</h2>
 <p align="center">
 <img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white/>&nbsp;&nbsp;&nbsp;
@@ -61,16 +62,18 @@
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>&nbsp;&nbsp;
+  
+<!--<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>&nbsp;&nbsp; -->
      
 </p>
 
-<hr>
+<img  src="https://github.com/RajlaxmiMeshram/Rajlaxmi/blob/main/image/borderseperator.gif">
 
 <div align="center">
 
@@ -78,7 +81,8 @@
   
 </div>
 
-<hr>
+<img  src="https://github.com/RajlaxmiMeshram/Rajlaxmi/blob/main/image/borderseperator.gif">
+
 <h2 align="center"> 🔭⬇️ All My Repositories </h2>
 
 #### My Github Stats
